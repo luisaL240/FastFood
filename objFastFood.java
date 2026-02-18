@@ -46,6 +46,4 @@ public class objFastFood{
     public void setTotalPagar(Double totalPagar) {
         TotalPagar = totalPagar;
     }
-    
-
-}
+  }
